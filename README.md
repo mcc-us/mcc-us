@@ -9,10 +9,9 @@
 **My Projects**
 
 - [AB testing](https://github.com/mcc-us/AB_Testing)
+- [Life Expectancy Analysis & Modeling using WHO and UN data.](https://github.com/mcc-us/Life_Expectancy_Analysis_Modeling)
 
 In order to teach myself statistics and data science I wrote my ideas and code into several articles:
-
-[Life Expectancy Analysis & Modeling using WHO and UN data.](https://github.com/mcc-us/Life_Expectancy_Analysis_Modeling)
 
 1. [Logistic Regression Introduction]() **SOON**
 1. [Support Vector Machines]() **SOON**
