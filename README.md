@@ -6,7 +6,9 @@
 
 - I utilize the tools *R, Python, SQL and Statistics* providing actions not just words.
 
-**My Personal Projects**
+**My Projects**
+
+- [AB testing](https://github.com/mcc-us/AB_Testing)
 
 In order to teach myself statistics and data science I wrote my ideas and code into several articles:
 
