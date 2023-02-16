@@ -4,12 +4,13 @@
 
 - I am a Data Scientist, Biochemist & Teacher
 
-- I utilize the tools *R, Python, SQL and Statistics* providing actions not just words.
+- I utilize the tools *Python, R, SQL, Statistics, and Business Acumen* to provide actions not just words.
 
 **My Projects**
 
-- [AB testing](https://github.com/mcc-us/AB_Testing)
-- [Life Expectancy Analysis & Modeling using WHO and UN data.](https://github.com/mcc-us/Life_Expectancy_Analysis_Modeling)
+- [AB Testing Of Icons For catsVersusdogs.com](https://github.com/mcc-us/AB_Testing)
+- [Life Expectancy Analysis & Modeling Using WHO And UN Data.](https://github.com/mcc-us/Life_Expectancy_Analysis_Modeling)
+- [Retention-Churn Testing For AD&D Telecom](https://github.com/mcc-us/Churn_Testing)
 
 In order to teach myself statistics and data science I wrote my ideas and code into several articles:
 
