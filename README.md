@@ -8,7 +8,7 @@
 
 **My Projects**
 
-- [AB Testing Of Icons For catsVersusdogs.com](https://github.com/mcc-us/AB_Testing)
+- [AB Testing Of Icons For CatsVsDogs.com](https://github.com/mcc-us/AB_Testing)
 - [Life Expectancy Analysis & Modeling Using WHO And UN Data.](https://github.com/mcc-us/Life_Expectancy_Analysis_Modeling)
 - [Retention-Churn Testing For AD&D Telecom](https://github.com/mcc-us/Churn_Testing)
 
