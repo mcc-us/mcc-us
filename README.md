@@ -9,8 +9,8 @@
 **My Projects**
 
 - [AB Testing Of Icons For CatsVsDogs.com](https://github.com/mcc-us/AB_Testing)
-- [Life Expectancy Analysis & Modeling Using WHO And UN Data.](https://github.com/mcc-us/Life_Expectancy_Analysis_Modeling)
-- [Retention-Churn Testing For AD&D Telecom](https://github.com/mcc-us/Churn_Testing)
+- [Life Expectancy Analysis & Modeling Using WHO and UN Data](https://github.com/mcc-us/Life_Expectancy_Analysis_Modeling)
+- [AD&D Churn Analysis & Modeling Report](https://github.com/mcc-us/Churn_Testing)
 
 In order to teach myself statistics and data science I wrote my ideas and code into several articles:
 
