@@ -16,12 +16,13 @@ Additionally:
 
 - [AB Test using R](https://github.com/mcc-us/ab-test-using-r/blob/main/ab-test-with-r.pdf)
 
-**My Lightning Talks**
+**My Talks**
 
-- [Debug with Python's PDB](https://github.com/mcc-us/debug-w-python-pdb/blob/main/mcc_debug_w_pdf_python.pdf) 
+- [Debug with Python's PDB](https://github.com/mcc-us/debug-w-python-pdb/blob/main/mcc_debug_w_pdf_python.pdf): Presented to the [Boston Python](https://www.meetup.com/bostonpython/) Meetup group.
+- [PCA is your Friend](): This lightening talk was given to the [Boston UseR](https://www.meetup.com/Boston-useR/) Meetup Group
 - [How to Install Anaconda](https://github.com/mcc-us/getting-started-Anaconda/blob/main/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
-- [Getting Started with Python](https://www.youtube.com/watch?v=ZbwRktS7iz8&t=4446s): 15 min. video presentation for 'Women Who Code Philadelphia' Meetup
-- My Career Devs presentation on [Pseudo-Code]().
+- [Getting Started with Anaconda](https://www.youtube.com/watch?v=ZbwRktS7iz8&t=4446s): 15 min. video presentation for [Women Who Code Philadelphia](https://www.meetup.com/Women-Who-Code-Philly/) Meetup
+- [Pseudo-Code]().
 
 
 **Misc. Notes** 
