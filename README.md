@@ -19,8 +19,8 @@ Additionally:
 **My Lightning Talks**
 
 - [Debug with Python's PDB](https://github.com/mcc-us/debug-w-python-pdb/blob/main/mcc_debug_w_pdf_python.pdf) 
-- Getting Started with Python for the group Women Who Code Philadelphia
-- How to Install Anaconda: Presented to the Boston Python Users Meetup group.
+- [How to Install Anaconda](https://github.com/mcc-us/getting-started-Anaconda/blob/main/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
+- [Getting Started with Python](https://www.youtube.com/watch?v=ZbwRktS7iz8&t=4446s): 15 min. video presentation for 'Women Who Code Philadelphia' Meetup
 - My Career Devs presentation on [Pseudo-Code]().
 
 
