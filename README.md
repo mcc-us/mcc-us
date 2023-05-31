@@ -18,13 +18,13 @@ Additionally:
 
 **My Lightning Talks**
 
-- pdb 
+- [Debug with Python's PDB](https://github.com/mcc-us/debug-w-python-pdb/blob/main/mcc_debug_w_pdf_python.pdf) 
 - Getting Started with Python for the group Women Who Code Philadelphia
 - How to Install Anaconda: Presented to the Boston Python Users Meetup group.
-- My Career Devs presentation on [Pseudo-Code](). **SOON**
+- My Career Devs presentation on [Pseudo-Code]().
 
 
-My Notes 
+**Misc. Notes** 
 
 - :information_source: These are my favorite [Data Science Resources](), with a focus of FREE. **SOON**
 
