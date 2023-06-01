@@ -18,10 +18,10 @@ Additionally:
 
 **My Talks**
 
-- [Debug with Python's PDB](https://github.com/mcc-us/debug-w-python-pdb/blob/main/mcc_debug_w_pdf_python.pdf): Presented to the [Boston Python](https://www.meetup.com/bostonpython/) Meetup group.
-- [PCA is your Friend](): This lightening talk was given to the [Boston UseR](https://www.meetup.com/Boston-useR/) Meetup Group
-- [How to Install Anaconda](https://github.com/mcc-us/getting-started-Anaconda/blob/main/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup group.
-- [Getting Started with Anaconda](https://www.youtube.com/watch?v=ZbwRktS7iz8&t=4446s): 15 min. video presentation for [Women Who Code Philadelphia](https://www.meetup.com/Women-Who-Code-Philly/) Meetup
+- [Debug with Python's PDB](https://github.com/mcc-us/debug-w-python-pdb/blob/main/mcc_debug_w_pdf_python.pdf): Presented to the [Boston Python](https://www.meetup.com/bostonpython/) Meetup.  
+- [PCA is your Friend](): This lightening talk was given to the [Boston UseR](https://www.meetup.com/Boston-useR/) Meetup.  
+- [How to Install Anaconda](https://github.com/mcc-us/getting-started-Anaconda/blob/main/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup.  
+- [Getting Started with Anaconda](https://www.youtube.com/watch?v=ZbwRktS7iz8&t=4446s): 15 min. video presentation for 'Women Who Code Philadelphia' Meetup.  
 - [Pseudo-Code]().
 
 
@@ -31,4 +31,4 @@ Additionally:
 
 - I have several passions film :clapper:, jazz music :saxophone:, and travel :sunglasses:.
 
-- :airplane: Fun fact: I visited two of the lowest places on land with elevations below sea level.
+- :airplane: Fun fact: I visited *three of the lowest land elevations* on earth.
