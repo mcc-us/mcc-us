@@ -2,9 +2,9 @@
 
 - **I make science easy to understand** 
 
-- Data Scientist, Python and R programmer, Biochemist & Patient Teacher
+- Data Scientist, Python, R programmer, Biochemist & Patient Teacher
 
-- I use Statistics, and Business Acumen to provide actional information.
+- I use Statistics & Business Acumen to provide actionable information.
 
 **Projects**
 
