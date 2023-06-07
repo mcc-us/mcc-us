@@ -19,7 +19,7 @@ Additionally:
 **My Talks**
 
 - [Debug with Python's PDB](https://github.com/mcc-us/debug-w-python-pdb/blob/main/mcc_debug_w_pdf_python.pdf): Presented to the [Boston Python](https://www.meetup.com/bostonpython/) Meetup.  
-- [PCA is your Friend](): This lightening talk was given to the [Boston UseR](https://www.meetup.com/Boston-useR/) Meetup.  
+- [PCA is your Friend](https://github.com/mcc-us/Understanding-PCA-w-R/blob/main/PCA-Lightning-Talk.pdf): This lightening talk was given to the [Boston UseR](https://www.meetup.com/Boston-useR/) Meetup.  
 - [How to Install Anaconda](https://github.com/mcc-us/getting-started-Anaconda/blob/main/Boston_Python_Users_Study_Group_11_17_2021.pdf): Presented to the Boston Python Users Meetup.  
 - [Getting Started with Anaconda](https://www.youtube.com/watch?v=ZbwRktS7iz8&t=4446s): 15 min. video presentation for 'Women Who Code Philadelphia' Meetup.  
 - [Pseudo-Code](https://github.com/mcc-us/pseudo-code-talk/blob/main/MCC.Nov2017.pseudocode_flowcharts_v1.pdf) - Lightning talk for Career Devs Providence Meetup.
