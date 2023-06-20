@@ -34,6 +34,13 @@ Additionally:
 - [AB Test using R](https://github.com/mcc-us/ab-test-using-r/blob/main/ab-test-with-r.pdf)
 - [Framingham Heart Study using R](https://github.com/mcc-us/Logit-using-R/blob/main/2022-fhs-logit-report.pdf)
 
+- I wrote several chapters on Machine Learning to better understand the topics, ***which I will be posting shortly***.
+  -  *Logistic Regression Introduction*
+  -  *Support Vector Machines*
+  -  *Principle Component Analysis*
+  -  *Basic Neural Networks*
+  -  *Machine Learning Introduction*
+
 ### My Talks
 
 - [Debug with Python's PDB](https://github.com/mcc-us/debug-w-python-pdb/blob/main/mcc_debug_w_pdf_python.pdf): Presented to the [Boston Python](https://www.meetup.com/bostonpython/) Meetup.  
