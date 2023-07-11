@@ -34,8 +34,8 @@ Additionally:
 - [AB Test using R](https://github.com/mcc-us/ab-test-using-r/blob/main/ab-test-with-r.pdf)
 - [Framingham Heart Study using R](https://github.com/mcc-us/Logit-using-R/blob/main/2022-fhs-logit-report.pdf)
 
-- I wrote several chapters on Machine Learning to better understand the topics, ***which I will be posting shortly***.
-  -  *Logistic Regression Introduction*
+- I wrote several chapters on Machine Learning so that I could better understand the topic.
+  -  [Logistic Regression Introduction](https://github.com/mcc-us/intro-2-logit/blob/main/intro-2-logit.pdf)
   -  *Support Vector Machines*
   -  *Principle Component Analysis*
   -  *Basic Neural Networks*
