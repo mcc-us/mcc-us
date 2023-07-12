@@ -41,7 +41,7 @@
   -  [Logistic Regression Introduction](https://github.com/mcc-us/intro-2-logit/blob/main/intro-2-logit.pdf)
   -  *Support Vector Machines*
   -  *Principle Component Analysis*
-  -  *Basic Neural Networks*
+  -  [Basic Neural Networks](https://github.com/mcc-us/Intro-NeuralNetworks-/blob/main/neural-network.pdf)
   -  *Machine Learning Introduction*
 
 ### My Talks
