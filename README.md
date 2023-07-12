@@ -56,6 +56,7 @@
 ### Misc. Notes
 
 - :information_source: These are my *favorite* [Matt's Data Science Resources](https://github.com/mcc-us/matts-ds-resources/tree/main), with a focus on FREE.
+- :information_source: Matt's [SQL Cheat Sheet](https://github.com/mcc-us/sql_cheat_sheet/blob/main/sql_cheat_sheet.pdf)
 
 - I have several passions film :clapper:, jazz music :saxophone:, and travel :sunglasses:.
 
