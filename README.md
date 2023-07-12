@@ -39,7 +39,7 @@
 
 - I wrote several '*articles*' on Machine Learning so that I could better understand the topic.
   -  [Logistic Regression Introduction](https://github.com/mcc-us/intro-2-logit/blob/main/intro-2-logit.pdf)
-  -  *Support Vector Machines*
+  -  [Intro To Support Vector Machines](https://github.com/mcc-us/SVM-Intro/blob/master/06-svm.pdf)
   -  *Principle Component Analysis*
   -  [Basic Neural Networks](https://github.com/mcc-us/Intro-NeuralNetworks-/blob/main/neural-network.pdf)
   -  *Machine Learning Introduction*
