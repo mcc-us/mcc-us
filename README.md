@@ -39,7 +39,7 @@
   -  [Intro To Support Vector Machines](https://github.com/mcc-us/SVM-Intro/blob/master/06-svm.pdf)
   -  [Principle Component Analysis](https://github.com/mcc-us/mcc-pca-intro/blob/master/01-pca-intro-R.pdf)
   -  [Basic Neural Networks](https://github.com/mcc-us/Intro-NeuralNetworks-/blob/main/neural-network.pdf)
-  -  *Machine Learning Introduction*
+  -  [Machine Learning Introduction](https://github.com/mcc-us/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
 
 *More Soon*
 
