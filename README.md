@@ -23,16 +23,24 @@
 </p>
 
 
-### Projects
+### Python Projects
 
-- [AB Testing Of Icons For CatsVsDogs.com](https://github.com/mcc-us/AB_Testing)
-- [Life Expectancy Analysis & Modeling Using WHO and UN Data](https://github.com/mcc-us/Life_Expectancy_Analysis_Modeling)
-- [AD&D Churn Analysis & Modeling Report](https://github.com/mcc-us/Churn_Testing)
+- [AB-Testing: catsVSdogs.com](https://github.com/mcc-us/AB_Testing)
+- [Churn Analysis & Modeling Of AD&D](https://github.com/mcc-us/Churn_Testing)
+- [Life Expectancy Analysis & Modeling Using WHO and UN Data - SOON]()
 
-Additionally:
+### R Projects
 
-- [AB Test using R](https://github.com/mcc-us/ab-test-using-r/blob/main/ab-test-with-r.pdf)
-- [Framingham Heart Study using R](https://github.com/mcc-us/Logit-using-R/blob/main/2022-fhs-logit-report.pdf)
+- [Framingham Heart Study Using Logit](https://github.com/mcc-us/Logit-using-R/blob/main/2022-fhs-logit-report.pdf)
+- [AB Test Using R](https://github.com/mcc-us/ab-test-using-r/blob/main/ab-test-with-r.pdf)
+
+I wrote several chapters on Machine Learning to better understand the topics.
+
+- Introduction To Logistic Regression
+- Support Vector Machines
+- Principle Component Analysis
+- Basic Neural Networks
+- Machine Learning Introduction
 
 - I wrote several chapters on Machine Learning so that I could better understand the topic.
   -  [Logistic Regression Introduction](https://github.com/mcc-us/intro-2-logit/blob/main/intro-2-logit.pdf)
