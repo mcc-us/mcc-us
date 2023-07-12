@@ -52,7 +52,7 @@
 
 ### Misc. Notes
 
-- :information_source: These are my *favorite* [Matt's Data Science Resources](https://github.com/mcc-us/matts-ds-resources/tree/main), with a focus of FREE.
+- :information_source: These are my *favorite* [Matt's Data Science Resources](https://github.com/mcc-us/matts-ds-resources/tree/main), with a focus on FREE.
 
 - I have several passions film :clapper:, jazz music :saxophone:, and travel :sunglasses:.
 
