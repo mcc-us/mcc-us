@@ -20,7 +20,8 @@
    <code><img height="40" src="https://www.vectorlogo.zone/logos/coursera/coursera-ar21.svg"></code>
    <code><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
    <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-   
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
 
