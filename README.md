@@ -27,7 +27,7 @@
 
 ### Python Projects
 
-- [AB-Testing: catsVSdogs.com](https://github.com/mcc-us/AB_Testing/blob/main/MCurcio-AB-Testing.ipynb)
+- [AB-Testing: catsVSdogs.com](https://github.com/mcc-us/AB_Testing/blob/main/MCurcio-AB-Testing.pdf)
 - [Churn Analysis & Modeling Of AD&D](https://github.com/mcc-us/Churn_Testing/blob/main/notebooks/1_Telecommunications_Churn_Analysis_And_Modeling.ipynb)
 - Life Expectancy Analysis & Modeling Using WHO and UN Data - SOON
 
