@@ -34,7 +34,7 @@
 
 ### R Projects
 
-- [Framingham Heart Study Using Logit](https://github.com/mcc-us/Logit-using-R/blob/main/2022-fhs-logit-report.pdf)
+- [Determining Risks By Using Framingham Heart Study Data & Logit](https://github.com/mcc-us/Logit-using-R/blob/main/fhs-logit.pdf)
 - [AB Test Using R](https://github.com/mcc-us/ab-test-using-r/blob/main/ab-test-with-r.pdf)
 - I wrote several '*articles*' on Machine Learning so that I could better understand the topic.
   -  [Logistic Regression Introduction](https://github.com/mcc-us/intro-2-logit/blob/main/intro-2-logit.pdf)
