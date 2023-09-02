@@ -2,9 +2,11 @@
 
 *I make science easy to understand*
 
-- Data Scientist, Python, R programmer, Scientist-Biochemist & Patient STEM Teacher
+- Data Scientist, Python, R programmer, Scientist-Biochemist & Patient STEM Teacher.
 
 - I use Statistics & Business Acumen to provide actionable information.
+
+- See my new project: [Matt Learns Bookkeeping](https://github.com/mcc-us/mcc-us.github.io)
 
 ### Technical Skills
 
