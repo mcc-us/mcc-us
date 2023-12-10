@@ -1,10 +1,6 @@
 ## Welcome, I'm Matthew Curcio, 
 
-*I make science easy to understand*
-
 - Data Scientist, Python, R programmer, Scientist-Biochemist & Patient STEM Teacher.
-
-- I use Statistics & Business Acumen to provide actionable information.
   
 ### Technical Skills
 
@@ -29,8 +25,6 @@
 
 - [AB-Testing: catsVSdogs.com](https://github.com/mcc-us/AB_Testing/blob/main/MCurcio-AB-Testing.pdf)
 - [Churn Analysis & Modeling Of AD&D](https://github.com/mcc-us/Churn_Testing/blob/main/notebooks/1_Telecommunications_Churn_Analysis_And_Modeling.ipynb)
-- Life Expectancy Analysis & Modeling Using WHO and UN Data - SOON
-
 
 ### R Projects
 
