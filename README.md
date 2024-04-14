@@ -26,7 +26,7 @@
 
 ### Python Projects
 
-- [AB-Testing: catsVSdogs.com](https://github.com/mcc-us/AB_Testing/blob/main/MCurcio-AB-Testing.pdf)
+- [AB-Testing: catsVSdogs.com](https://github.com/mcc-us/AB_Testing/blob/main/MCurcio-AB-Testing.ipynb)
 - [Churn Analysis & Modeling Of AD&D](https://github.com/mcc-us/Churn_Testing/blob/main/notebooks/1_Telecommunications_Churn_Analysis_And_Modeling.ipynb)
 
 ### R Projects
