@@ -1,6 +1,10 @@
 ## Welcome, I'm Matthew Curcio, 
 
-- Data Scientist, Python, R programmer, Scientist-Biochemist & Patient STEM Teacher.
+- *A Scientist First*
+  
+   - Scientist, & Educator
+   - Integrating the tools R, Python, Statistics & Data Science.
+
   
 ### Technical Skills
 
@@ -23,7 +27,7 @@
 ### Misc
 
 - [Matt's Bookkeeping site](https://mcc-us.github.io/)
-- [Garden site](https://mcc-us.github.io/garden)
+- [Garden site](https://github.com/mcc-us/garden)
 
 ### Python Projects
 
