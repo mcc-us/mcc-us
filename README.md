@@ -28,7 +28,7 @@
 
 - [Matt's Bookkeeping site](https://mcc-us.github.io/)
 - [Matt's QBO site](https://github.com/mcc-us/mc.qbo)
-- [Matt's Garden site](https://github.com/mcc-us/garden)
+- [Matt's Garden site](https://github.com/mcc-us/bucky)
 
 ### Python Projects
 
