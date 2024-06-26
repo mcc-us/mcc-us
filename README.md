@@ -5,6 +5,11 @@
    - Scientist, & Educator
    - Integrating the tools R, Python, Statistics & Data Science.
 
+### Current Projects
+
+- [Matt's Bookkeeping site](https://mcc-us.github.io/)
+- [Matt's QBO site](https://github.com/mcc-us/mc.qbo)
+- [Matt's Garden site](https://github.com/mcc-us/bucky)
   
 ### Technical Skills
 
@@ -24,17 +29,6 @@
    <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-### Misc
-
-- [Matt's Bookkeeping site](https://mcc-us.github.io/)
-- [Matt's QBO site](https://github.com/mcc-us/mc.qbo)
-- [Matt's Garden site](https://github.com/mcc-us/bucky)
-
-### Python Projects
-
-- [AB-Testing: catsVSdogs.com](https://github.com/mcc-us/AB_Testing/blob/main/MCurcio-AB-Testing.ipynb)
-- [Churn Analysis & Modeling Of AD&D](https://github.com/mcc-us/Churn_Testing/blob/main/notebooks/1_Telecommunications_Churn_Analysis_And_Modeling.ipynb)
-
 ### R Projects
 
 - [Determining The Odds For Cardiovascular Disease By Using Framingham Heart Study Data & Logit](https://github.com/mcc-us/Logit-using-R/blob/main/fhs-logit.pdf)
@@ -46,9 +40,13 @@
   -  [Basic Neural Networks](https://github.com/mcc-us/Intro-NeuralNetworks-/blob/main/neural-network.pdf)
   -  [Machine Learning Introduction](https://github.com/mcc-us/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
 
-*More Soon*
+### Python Projects
 
-### My Talks
+- [AB-Testing: catsVSdogs.com](https://github.com/mcc-us/AB_Testing/blob/main/MCurcio-AB-Testing.ipynb)
+- [Churn Analysis & Modeling Of AD&D](https://github.com/mcc-us/Churn_Testing/blob/main/notebooks/1_Telecommunications_Churn_Analysis_And_Modeling.ipynb)
+
+
+### My Data Sci Talks
 
 - [Debug with Python's PDB](https://github.com/mcc-us/debug-w-python-pdb/blob/main/mcc_debug_w_pdf_python.pdf): Presented to the [Boston Python](https://www.meetup.com/bostonpython/) Meetup.  
 - [PCA Is Your Friend](https://github.com/mcc-us/Understanding-PCA-w-R/blob/main/PCA-Lightning-Talk.pdf): This lightning talk was given to the [Boston UseR](https://www.meetup.com/Boston-useR/) Meetup.  
