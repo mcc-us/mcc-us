@@ -1,4 +1,4 @@
-## Welcome, I'm Matthew Curcio, 
+## Welcome, I'm M.Curcio, 
 
 - *A Scientist First*
   
