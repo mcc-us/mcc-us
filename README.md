@@ -4,12 +4,18 @@
   
    - Scientist, & Educator
    - Integrating the tools R, Python, Statistics & Data Science.
+ 
+---
+
+I have several passions film :clapper:, jazz music :saxophone:, and travel :sunglasses:.
+
+I visited *the lowest elevation* on earth. Do you know where it is?
 
 ### Current Projects
 
-- [Matt's Bookkeeping site](https://mcc-us.github.io/)
-- [Matt's QBO site](https://github.com/mcc-us/mc.qbo)
-- [Matt's Garden site](https://github.com/mcc-us/bucky)
+- [Learn Bookkeeping](https://mcc-us.github.io/)
+- [Learn QuickBooks Online](https://github.com/mcc-us/mc.qbo)
+- [Plants](https://github.com/mcc-us/bucky)
   
 ### Technical Skills
 
@@ -32,19 +38,18 @@
 ### R Projects
 
 - [Determining The Odds For Cardiovascular Disease By Using Framingham Heart Study Data & Logit](https://github.com/mcc-us/Logit-using-R/blob/main/fhs-logit.pdf)
-- [AB Test Using R](https://github.com/mcc-us/ab-test-using-r/blob/main/ab-test-with-r.pdf)
 - I wrote several '*articles*' on Machine Learning so that I could better understand the topic.
   -  [Logistic Regression Introduction](https://github.com/mcc-us/intro-2-logit/blob/main/intro-2-logit.pdf)
   -  [Intro To Support Vector Machines](https://github.com/mcc-us/SVM-Intro/blob/master/06-svm.pdf)
   -  [Principle Component Analysis](https://github.com/mcc-us/mcc-pca-intro/blob/master/01-pca-intro-R.pdf)
   -  [Basic Neural Networks](https://github.com/mcc-us/Intro-NeuralNetworks-/blob/main/neural-network.pdf)
   -  [Machine Learning Introduction](https://github.com/mcc-us/mcc-machine-learning-intro/blob/master/mcc-ml-project-info.pdf)
+  -  [AB Test Using R](https://github.com/mcc-us/ab-test-using-r/blob/main/ab-test-with-r.pdf)
 
 ### Python Projects
 
 - [AB-Testing: catsVSdogs.com](https://github.com/mcc-us/AB_Testing/blob/main/MCurcio-AB-Testing.ipynb)
 - [Churn Analysis & Modeling Of AD&D](https://github.com/mcc-us/Churn_Testing/blob/main/notebooks/1_Telecommunications_Churn_Analysis_And_Modeling.ipynb)
-
 
 ### My Data Sci Talks
 
@@ -54,14 +59,9 @@
 - [Getting Started With Anaconda](https://www.youtube.com/watch?v=ZbwRktS7iz8&t=4446s): 15 min. video presentation for 'Women Who Code Philadelphia' Meetup.  
 - [Pseudo-Code](https://github.com/mcc-us/pseudo-code-talk/blob/main/MCC.Nov2017.pseudocode_flowcharts_v1.pdf) - Lightning talk for Career Devs Providence Meetup.
 
-
 ### Misc. Notes
 
 - :information_source: These are my *favorite* [Matt's Data Science Resources](https://github.com/mcc-us/matts-ds-resources/tree/main), with a focus on FREE.
 - :information_source: Matt's [SQL Cheat Sheet](https://github.com/mcc-us/sql_cheat_sheet/blob/main/sql_cheat_sheet.pdf)
 - :information_source: Matt's [Bash Cheat Sheet](https://github.com/mcc-us/bash-cheat-sheet/blob/main/bash-cheat-sheet.pdf)
 - [Formulas for Observational Statistics](https://github.com/mcc-us/obs.stats.cheat.sheet/blob/main/Obs.Stats.Formulas.pdf)
-
-- I have several passions film :clapper:, jazz music :saxophone:, and travel :sunglasses:.
-
-- :airplane: Fun fact: I visited *three of the lowest land elevations* on earth.
