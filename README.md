@@ -13,9 +13,8 @@ I visited *the lowest elevation* on earth. Do you know where it is?
 
 ### Current Projects
 
-- [Learn Bookkeeping](https://mcc-us.github.io/)
-- [Learn QuickBooks Online](https://github.com/mcc-us/mc.qbo)
-- [Plants](https://github.com/mcc-us/bucky)
+- [Learn Bookkeeping](https://mcc-us.github.io/bookkeeping)
+- [Learn QuickBooks Online](https://mcc-us.github.com/)
   
 ### Technical Skills
 
