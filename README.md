@@ -2,19 +2,13 @@
 
 - *A Scientist First*
   
-   - Scientist, & Educator
+   - Scientist & Educator
    - Integrating the tools R, Python, Statistics & Data Science.
  
----
-
-I have several passions film :clapper:, jazz music :saxophone:, and travel :sunglasses:.
-
-I visited *the lowest elevation* on earth. Do you know where it is?
-
 ### Current Projects
 
-- [Learn Bookkeeping](https://mcc-us.github.io/bookkeeping)
-- [Learn QuickBooks Online](https://mcc-us.github.com/)
+- [Learn Bookkeeping](https://mcc-us.github.io/bookkeeping), [BK repo](https://github.com/mcc-us/bookkeeping)
+- [Learn QuickBooks Online](https://mcc-us.github.com/), [QBO repo](https://github.com/mcc-us/mcc-us.github.io)
   
 ### Technical Skills
 
@@ -64,3 +58,9 @@ I visited *the lowest elevation* on earth. Do you know where it is?
 - :information_source: Matt's [SQL Cheat Sheet](https://github.com/mcc-us/sql_cheat_sheet/blob/main/sql_cheat_sheet.pdf)
 - :information_source: Matt's [Bash Cheat Sheet](https://github.com/mcc-us/bash-cheat-sheet/blob/main/bash-cheat-sheet.pdf)
 - [Formulas for Observational Statistics](https://github.com/mcc-us/obs.stats.cheat.sheet/blob/main/Obs.Stats.Formulas.pdf)
+
+---
+
+I have several passions film :clapper:, jazz music :saxophone:, and travel :sunglasses:.
+
+I visited *the lowest elevation* on earth. Do you know where it is?
