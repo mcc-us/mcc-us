@@ -7,8 +7,10 @@
  
 ### Current Projects
 
+- [Learn IRS-Enrolled Agent](https://mcc-us.github.com/ea), [QBO repo](https://github.com/mcc-us/mcc-us.github.io/ea)
 - [Learn Bookkeeping](https://mcc-us.github.io/bookkeeping), [BK repo](https://github.com/mcc-us/bookkeeping)
 - [Learn QuickBooks Online](https://mcc-us.github.com/), [QBO repo](https://github.com/mcc-us/mcc-us.github.io)
+
   
 ### Technical Skills
 
