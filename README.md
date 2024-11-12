@@ -7,6 +7,7 @@
  
 ### Current Projects
 
+- [Learn EA Part 3](https://github.com/mcc-us/ea-part3/actions)
 - [Learn IRS-Enrolled Agent](https://mcc-us.github.com/irs.ea), [EA actions](https://github.com/mcc-us/irs.ea/actions)
 - [Learn Bookkeeping](https://mcc-us.github.io/bookkeeping), [BK repo](https://github.com/mcc-us/bookkeeping/actions)
 - [Learn QuickBooks Online](https://mcc-us.github.com/), [QBO repo](https://github.com/mcc-us/mcc-us.github.io)
